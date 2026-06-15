@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-IRH6KG7U.js";import"/cookbook-template/build/_shared/chunk-J3PKFMLQ.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/Aerosol-Cloud-Interactions-cookbook/build/_shared/chunk-IRH6KG7U.js";import"/Aerosol-Cloud-Interactions-cookbook/build/_shared/chunk-J3PKFMLQ.js";import"/Aerosol-Cloud-Interactions-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();
