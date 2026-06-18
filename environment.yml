@@ -1,4 +1,4 @@
-name: aerosol-cookbook-dev
+name: aerosol-cookbook
 channels:
   - conda-forge
 dependencies:

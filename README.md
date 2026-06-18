@@ -14,14 +14,16 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 Aerosol-cloud interactions (ACIs) continue to introduce the greatest degree of uncertainty into the estimate of effective radiative forcing, which affects our ability to project temperature/precipitation evolution and assess societal risks. It is challenging to represent ACIs in models because they involve multiscale and nonlinear processes.  Comparing simulated ACIs from different models and evaluating model performance will help us understand processes and reduce projection uncertainty.
 
+This cook book provide overview of Aerosol and Clouds for understanding of high school students. Aerosol dataset from CIMP6 project to
+
 ## Authors
 
 First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/Aerosol-Cloud-Interactions-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/Aerosol-Cloud-Interactions-cookbook" />
 </a>
 
 ## Structure
@@ -66,22 +68,21 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/Aerosol-Cloud-Interactions-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/Aerosol-Cloud-Interactions-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `Aerosol-Cloud-Interactions-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd Aerosol-Cloud-Interactions-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate aerosol-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
