@@ -14,7 +14,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 Aerosol-cloud interactions (ACIs) continue to introduce the greatest degree of uncertainty into the estimate of effective radiative forcing, which affects our ability to project temperature/precipitation evolution and assess societal risks. It is challenging to represent ACIs in models because they involve multiscale and nonlinear processes.  Comparing simulated ACIs from different models and evaluating model performance will help us understand processes and reduce projection uncertainty.
 
-This cook book provide overview of Aerosol and Clouds for understanding of high school students. Aerosol dataset from CIMP6 project to
+This cook book provide overview of Aerosol and Clouds for understanding of high school students. Aerosol dataset from CIMP6 project to show concentration of six different pollutants.
 
 ## Authors
 
