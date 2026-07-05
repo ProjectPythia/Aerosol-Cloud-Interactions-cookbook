@@ -27,9 +27,9 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 </a>
   <a href="https://github.com/Ummuqulthum001/Aerosol-Cloud-Interactions-cookbook/graphs/contributors">
      <img src="https://github.com/Ummuqulthum001.png"
-       width="50" 
-    height="50"
-    style="border-radius: 50%; margin-left: 4px;"
+    width="64" 
+    height="64"
+    style="border-radius: 50%; margin-left: 4px; vertical-align: top;"
   />
   </a>
 
