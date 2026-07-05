@@ -26,7 +26,11 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
   <img src="https://contrib.rocks/image?repo=ProjectPythia/Aerosol-Cloud-Interactions-cookbook" />
 </a>
   <a href="https://github.com/Ummuqulthum001/Aerosol-Cloud-Interactions-cookbook/graphs/contributors">
-     <img src="https://github.com/Ummuqulthum001.png" />
+     <img src="https://github.com/Ummuqulthum001.png"
+       width="50" 
+    height="50"
+    style="border-radius: 50%; margin-left: 4px;"
+  />
   </a>
 
 
